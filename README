@@ -1,0 +1,10 @@
+TextScreen Ruler
+================
+
+textscreen_ruler is a simple bash script for terminal characters measuring
+as if it were a ruler. Use it by invocating from a tab and count how many
+chars a program is printing to the screen.
+
+Please refer to the INSTALL file for installation instructions using the
+GNU Build System.
+

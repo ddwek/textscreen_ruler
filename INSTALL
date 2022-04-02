@@ -1,0 +1,12 @@
+Installation
+------------
+
+To install using the GNU Build System method, just open a terminal and
+type the following commands:
+
+	username@host: dir $ git clone https://github.com/ddwek/textscreen_ruler.git ./ruler
+	username@host: dir $ cd ruler
+	username@host: nullify $ ./configure --prefix=/usr/local
+	username@host: nullify $ make
+	[ become superuser if needed ]
+	username@host: nullify $ make install
